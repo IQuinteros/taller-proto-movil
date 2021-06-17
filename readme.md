@@ -1,5 +1,7 @@
 # Taller de prototipos web y móvil
 
+App móvil con Java, desarrollada en el taller de prototipos web y móvil. Conectado con la API desarrollada en la etapa web.
+
 Hola! Te dejo unas líneas de código que necesitarás para completar la conexión con la API. Estas líneas de código por supuesto que fueron usadas en los videos del taller.
 
 ## Permisos de Android Manifest
